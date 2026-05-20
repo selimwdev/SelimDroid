@@ -81,7 +81,7 @@ The framework focuses on real-world mobile attack surfaces including insecure st
 # Installation
 
 ```bash
-git clone https://github.com/USERNAME/SELIMDROID.git
+git clone https://github.com/selimwdev/SELIMDROID.git
 
 cd SELIMDROID
 
