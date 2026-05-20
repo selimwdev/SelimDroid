@@ -81,9 +81,9 @@ The framework focuses on real-world mobile attack surfaces including insecure st
 # Installation
 
 ```bash
-git clone https://github.com/selimwdev/SELIMDROID.git
+git clone https://github.com/selimwdev/SelimDroid.git
 
-cd SELIMDROID
+cd SelimDroid
 
 pip install -r requirements.txt
 ```
@@ -118,7 +118,7 @@ frida-ps -U
 
 # Usage
 
-Run SELIMDROID:
+Run SelimDroid:
 
 ```bash
 python selimdroid.py
